@@ -20,7 +20,7 @@ The joke gives the deadline a personality of its own: it is not late, it simply 
 
 The punchline is the quiet conspiracy at the end, where both sides agree to call next Friday the plan all along instead of admitting the slip.
 
-Everyone who has ever watched a due date slide knows this deal, which is why the line lands in a single breath at 118 characters.
+Everyone who has ever watched a due date slide knows this deal, which is why the line lands in a single breath at 115 characters.
 
 ## Run
 
